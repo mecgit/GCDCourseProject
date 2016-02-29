@@ -2,7 +2,7 @@
 Coursera Getting and Cleaning Data Course Project
 
 This project organizes and summarizes a dataset using Tidy principles. An R script, run_analysis.R, contains the R code to 
-to load data, analyze, and output a tidy dataset that summarizes the input data computing a mean for each data column by subjectId, and avtivity.
+to load dataset, organize data, and output a tidy dataset that provides the mean for each input data column by subjectId, and activity.
 
 The input data can be obtained from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip].
 The run_analysis.R script assumes that this file has been downloaded and extracted to the R working directory. An R script has been provided below for this purpose:
